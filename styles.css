@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(41, 28, 28);
+    font-family: Arial, sans-serif;
+    
+}
+.pbox{
+     background-color:white;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
